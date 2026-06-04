@@ -1,2 +1,2 @@
-# DSA #LEEtCODE
+# DSA #LEETCODE
 
